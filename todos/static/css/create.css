@@ -1,0 +1,28 @@
+body{
+background-color:#a3a375;
+}
+h1{
+text-align:center;
+color: red;
+margin-top:100px
+}
+/*.form{
+margin-left: 560px;
+}*/
+.create{
+width:110px;
+margin-left:30px;
+
+
+}
+.body{
+background-color:#66a3ff;
+margin-left:35%;
+margin-right:28%;
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+
+
+ }
